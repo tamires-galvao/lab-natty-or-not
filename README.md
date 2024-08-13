@@ -14,3 +14,4 @@ O conteúdo foi desenvolvido com o auxílio do ChatGPT, que ajudou a estruturar 
 
 ## 🚀 Resultados
 Este resumo serve como um guia prático para desenvolvedores que desejam entender e implementar o `react-hook-form` em seus projetos, com suporte visual e explicações técnicas claras.
+[LINK PARA O RESUMO AQUI](https://github.com/tamires-galvao/lab-natty-or-not/blob/main/exemplos/mastering-react-hook-form-summary.md)
