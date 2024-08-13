@@ -1,6 +1,6 @@
 # react-hook-form
 
-![image](https://github.com/user-attachments/assets/17694dab-54e7-4006-9df3-99d1b9bcf876)
+![image](https://github.com/user-attachments/assets/eab90691-81a5-48ff-9bbe-3b1345aad318)
 
 ## O que é?
 
